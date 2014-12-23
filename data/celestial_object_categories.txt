@@ -1,0 +1,873 @@
+m.0175d9	name	Kentaur	sk
+m.0175d9	type	astronomy.celestial_object_category	link
+m.0175d9	type	base.tagit.organic_thing	link
+m.0175d9	type	base.tagasauris.organic_object	link
+m.0175d9	name	Zentauren	de
+m.0175d9	type	astronomy.asteroid_group	link
+m.0175d9	type	common.topic	link
+m.0175d9	name	Centaur	en
+m.0175d9	de_wiki_title	Zentauren	link
+m.0175d9	en_wiki_title	Centaur_$0028minor_planet$0029	link
+m.0243f	name	Classical Kuiper belt object	en
+m.0243f	type	symbols.namesake	link
+m.0243f	type	base.tagit.organic_thing	link
+m.0243f	name	Cubewano	de
+m.0243f	name	Kubewano	sk
+m.0243f	type	base.tagasauris.organic_object	link
+m.0243f	type	common.topic	link
+m.0243f	type	astronomy.celestial_object_category	link
+m.0243f	de_wiki_title	Cubewano	link
+m.0243f	en_wiki_title	Classical_Kuiper_belt_object	link
+m.05dt2l	name	UV-Ceti-Stern	de
+m.05dt2l	name	Vzplanuj\xc3\xbaca hviezda	sk
+m.05dt2l	type	common.topic	link
+m.05dt2l	name	Flare star	en
+m.05dt2l	type	astronomy.celestial_object_category	link
+m.05dt2l	de_wiki_title	UV-Ceti-Stern	link
+m.05dt2l	en_wiki_title	Flare_star	link
+m.01jzc9	name	Sternsystem	de
+m.01jzc9	name	Hviezdna s\xc3\xbastava	sk
+m.01jzc9	name	Star system	en
+m.01jzc9	type	common.topic	link
+m.01jzc9	type	freebase.equivalent_topic	link
+m.01jzc9	type	astronomy.celestial_object_category	link
+m.01jzc9	en_wiki_title	Star_system	link
+m.0gzxf	name	Ver\xc3\xa4nderlicher Stern	de
+m.0gzxf	type	astronomy.celestial_object_category	link
+m.0gzxf	type	common.topic	link
+m.0gzxf	name	Premenn\xc3\xa1 hviezda	sk
+m.0gzxf	name	Variable star	en
+m.0gzxf	de_wiki_title	Ver$00E4nderlicher_Stern	link
+m.0gzxf	en_wiki_title	Variable_star	link
+m.07z3ng	type	astronomy.celestial_object_category	link
+m.07z3ng	type	common.topic	link
+m.07z3ng	name	W-Ursae-Majoris-Stern	de
+m.07z3ng	name	W Ursae Majoris variable	en
+m.07z3ng	en_wiki_title	W_Ursae_Majoris_variable	link
+m.07z3ng	de_wiki_title	W-Ursae-Majoris-Stern	link
+m.04c3dr	type	astronomy.celestial_object_category	link
+m.04c3dr	name	Pulsarwind-Nebel	de
+m.04c3dr	type	common.topic	link
+m.04c3dr	name	Pulsar wind nebula	en
+m.04c3dr	alias	Plerion	en
+m.04c3dr	en_wiki_title	Pulsar_wind_nebula	link
+m.04c3dr	de_wiki_title	Pulsarwind-Nebel	link
+m.09wrk	type	astronomy.celestial_object_category	link
+m.09wrk	name	Supernova remnant	en
+m.09wrk	type	common.topic	link
+m.09wrk	name	Supernova\xc3\xbcberrest	de
+m.09wrk	name	Pozostatok supernovy	sk
+m.09wrk	en_wiki_title	Supernova_remnant	link
+m.09wrk	de_wiki_title	Supernova$00FCberrest	link
+m.0c1d2y3	type	base.tagasauris.organic_object	link
+m.0c1d2y3	type	common.topic	link
+m.0c1d2y3	name	High Velocity Cloud	en
+m.0c1d2y3	type	base.tagit.organic_thing	link
+m.0c1d2y3	type	astronomy.celestial_object_category	link
+m.0c1d2y3	type	book.book_subject	link
+m.02lwbp	alias	Yellow dwarf	en
+m.02lwbp	alias	G dwarf star	en
+m.02lwbp	name	G-type main-sequence star	en
+m.02lwbp	type	common.topic	link
+m.02lwbp	alias	G-type main sequence star	en
+m.02lwbp	name	\xc5\xbdlt\xc3\xbd trpasl\xc3\xadk	sk
+m.02lwbp	name	Gelber Zwerg	de
+m.02lwbp	type	astronomy.celestial_object_category	link
+m.02lwbp	de_wiki_title	Gelber_Zwerg	link
+m.02lwbp	en_wiki_title	G-type_main-sequence_star	link
+m.068syj	type	common.topic	link
+m.068syj	type	astronomy.celestial_object_category	link
+m.068syj	name	Leuchtkr\xc3\xa4ftiger Blauer Ver\xc3\xa4nderlicher	de
+m.068syj	name	Luminous blue variable	en
+m.068syj	en_wiki_title	Luminous_blue_variable	link
+m.068syj	de_wiki_title	Leuchtkr$00E4ftiger_Blauer_Ver$00E4nderlicher	link
+m.046lxl	name	Potentially hazardous object	en
+m.046lxl	alias	Potentially hazardous asteroid	en
+m.046lxl	type	astronomy.celestial_object_category	link
+m.046lxl	type	common.topic	link
+m.046lxl	alias	PHA	en
+m.046lxl	en_wiki_title	Potentially_hazardous_object	link
+m.05cqp5	name	B-type main-sequence star	en
+m.05cqp5	name	Modrobiely trpasl\xc3\xadk	sk
+m.05cqp5	type	common.topic	link
+m.05cqp5	type	astronomy.celestial_object_category	link
+m.05cqp5	en_wiki_title	B-type_main-sequence_star	link
+m.05gny	type	astronomy.celestial_object_category	link
+m.05gny	name	Nova	de
+m.05gny	type	common.topic	link
+m.05gny	name	Nova	sk
+m.05gny	name	Nova	en
+m.05gny	en_wiki_title	Nova	link
+m.05gny	de_wiki_title	Nova_$0028Stern$0029	link
+m.05qc_	type	common.topic	link
+m.05qc_	type	freebase.equivalent_topic	link
+m.05qc_	type	user.tsegaran.random.taxonomy_subject	link
+m.05qc_	type	base.skosbase.topic	link
+m.05qc_	type	base.allthingsnewyork.topic	link
+m.05qc_	name	Planet	de
+m.05qc_	type	fictional_universe.type_of_fictional_setting	link
+m.05qc_	type	base.virtualheliosphericobservatory.topic	link
+m.05qc_	type	base.tagasauris.organic_object	link
+m.05qc_	name	Planet	en
+m.05qc_	type	base.skosbase.vocabulary_equivalent_topic	link
+m.05qc_	type	base.tagit.organic_thing	link
+m.05qc_	name	Plan\xc3\xa9ta	sk
+m.05qc_	type	book.book_subject	link
+m.05qc_	type	base.ontologies.topic	link
+m.05qc_	type	base.ontologies.ontology_class	link
+m.05qc_	type	astronomy.celestial_object_category	link
+m.05qc_	type	base.ontologies.ontology_instance	link
+m.05qc_	en_wiki_title	Planet	link
+m.05qc_	de_wiki_title	Planet	link
+m.07x351	type	user.digitalarchivist.default_domain.star_type	link
+m.07x351	type	astronomy.celestial_object_category	link
+m.07x351	name	Jasn\xc3\xbd obor	sk
+m.07x351	name	Heller Riese	de
+m.07x351	type	common.topic	link
+m.07x351	name	Bright giant	en
+m.07x351	en_wiki_title	Bright_giant	link
+m.07x351	de_wiki_title	Heller_Riese	link
+m.01dgzb	name	Elliptische Galaxie	de
+m.01dgzb	type	astronomy.galactic_shape	link
+m.01dgzb	type	astronomy.celestial_object_category	link
+m.01dgzb	name	Eliptick\xc3\xa1 galaxia	sk
+m.01dgzb	name	Elliptical galaxy	en
+m.01dgzb	type	common.topic	link
+m.01dgzb	en_wiki_title	Elliptical_galaxy	link
+m.01dgzb	de_wiki_title	Elliptische_Galaxie	link
+m.02rvmdl	name	DY Persei variable	en
+m.02rvmdl	type	astronomy.celestial_object_category	link
+m.02rvmdl	type	common.topic	link
+m.02rvmdl	en_wiki_title	DY_Persei_variable	link
+m.03vgqq	type	freebase.equivalent_topic	link
+m.03vgqq	name	Galaxy filament	en
+m.03vgqq	name	Filament	de
+m.03vgqq	type	base.tagit.organic_thing	link
+m.03vgqq	type	astronomy.celestial_object_category	link
+m.03vgqq	type	common.topic	link
+m.03vgqq	name	Vl\xc3\xa1kno	sk
+m.03vgqq	type	base.tagasauris.organic_object	link
+m.03vgqq	en_wiki_title	Galaxy_filament	link
+m.03vgqq	de_wiki_title	Filament_$0028Kosmologie$0029	link
+m.09wv4	name	Planetarischer Nebel	de
+m.09wv4	type	common.topic	link
+m.09wv4	type	base.ontologies.ontology_instance	link
+m.09wv4	name	Planet\xc3\xa1rna hmlovina	sk
+m.09wv4	type	astronomy.celestial_object_category	link
+m.09wv4	name	Planetary nebula	en
+m.09wv4	de_wiki_title	Planetarischer_Nebel	link
+m.09wv4	en_wiki_title	Planetary_nebula	link
+m.0h4k68	type	astronomy.celestial_object_category	link
+m.0h4k68	type	common.topic	link
+m.0h4k68	name	Trojaner	de
+m.0h4k68	name	Tr\xc3\xb3jan	sk
+m.0h4k68	name	Trojan	en
+m.0h4k68	de_wiki_title	Trojaner_$0028Astronomie$0029	link
+m.0h4k68	en_wiki_title	Trojan_$0028astronomy$0029	link
+m.01hggc	name	Wolf-Rayet-Stern	de
+m.01hggc	type	astronomy.celestial_object_category	link
+m.01hggc	type	common.topic	link
+m.01hggc	name	Wolf\xe2\x80\x93Rayet star	en
+m.01hggc	name	Wolfova-Rayetova hviezda	sk
+m.01hggc	en_wiki_title	Wolf$2013Rayet_star	link
+m.01hggc	de_wiki_title	Wolf-Rayet-Stern	link
+m.07zkp8	type	astronomy.celestial_object_category	link
+m.07zkp8	name	BY-Draconis-Stern	de
+m.07zkp8	type	common.topic	link
+m.07zkp8	name	BY Draconis variable	en
+m.07zkp8	en_wiki_title	BY_Draconis_variable	link
+m.07zkp8	de_wiki_title	BY-Draconis-Stern	link
+m.09tmj8z	name	Scattered disc object	en
+m.09tmj8z	type	base.tagasauris.organic_object	link
+m.09tmj8z	type	common.topic	link
+m.09tmj8z	type	base.tagit.organic_thing	link
+m.09tmj8z	type	freebase.equivalent_topic	link
+m.09tmj8z	type	astronomy.celestial_object_category	link
+m.07v7c	type	base.tagit.organic_thing	link
+m.07v7c	type	base.tagasauris.organic_object	link
+m.07v7c	name	Vesm\xc3\xadr	sk
+m.07v7c	type	common.topic	link
+m.07v7c	type	base.ontologies.ontology_instance	link
+m.07v7c	type	astronomy.celestial_object_category	link
+m.07v7c	type	media_common.quotation_subject	link
+m.07v7c	name	Universum	de
+m.07v7c	alias	The Universe	en
+m.07v7c	name	Universe	en
+m.07v7c	type	base.endofallthings.topic	link
+m.07v7c	en_wiki_title	Universe	link
+m.07v7c	type	base.endofallthings.apocalyptic_scale	link
+m.07v7c	de_wiki_title	Universum	link
+m.02lwkb	name	Void	en
+m.02lwkb	name	Pr\xc3\xa1zdnota	sk
+m.02lwkb	name	Void	de
+m.02lwkb	type	common.topic	link
+m.02lwkb	type	astronomy.celestial_object_category	link
+m.02lwkb	en_wiki_title	Void_$0028astronomy$0029	link
+m.02lwkb	de_wiki_title	Void_$0028Astronomie$0029	link
+m.02nm7	name	Extrasol\xc3\xa1rna plan\xc3\xa9ta	sk
+m.02nm7	type	base.skosbase.topic	link
+m.02nm7	type	common.topic	link
+m.02nm7	type	freebase.equivalent_topic	link
+m.02nm7	name	Extrasolarer Planet	de
+m.02nm7	type	base.skosbase.vocabulary_equivalent_topic	link
+m.02nm7	type	base.exoplanetology.topic	link
+m.02nm7	alias	exoplanet	en
+m.02nm7	type	astronomy.celestial_object_category	link
+m.02nm7	name	Exoplanet	en
+m.02nm7	alias	extra-solar planet	en
+m.02nm7	en_wiki_title	Exoplanet	link
+m.02nm7	de_wiki_title	Extrasolarer_Planet	link
+m.0dvmx	name	Binary star	en
+m.0dvmx	type	common.topic	link
+m.0dvmx	name	Dvojhviezda	sk
+m.0dvmx	type	base.astronomydominy.topic	link
+m.0dvmx	type	astronomy.celestial_object_category	link
+m.0dvmx	type	base.ontologies.ontology_instance	link
+m.0dvmx	name	Doppelstern	de
+m.0dvmx	de_wiki_title	Doppelstern	link
+m.0dvmx	en_wiki_title	Binary_star	link
+m.03htvr	type	common.topic	link
+m.03htvr	name	Uranus-crosser asteroid	en
+m.03htvr	type	astronomy.celestial_object_category	link
+m.07j0r	type	astronomy.celestial_object_category	link
+m.07j0r	name	Trans-Neptunian object	en
+m.07j0r	type	base.tagasauris.organic_object	link
+m.07j0r	type	freebase.equivalent_topic	link
+m.07j0r	name	Transneptunisches Objekt	de
+m.07j0r	type	common.topic	link
+m.07j0r	type	base.tagit.organic_thing	link
+m.07j0r	name	Transnept\xc3\xbansky objekt	sk
+m.07j0r	de_wiki_title	Transneptunisches_Objekt	link
+m.07j0r	en_wiki_title	Trans-Neptunian_object	link
+m.0gyx1tp	type	common.topic	link
+m.0gyx1tp	type	freebase.equivalent_topic	link
+m.0gyx1tp	type	astronomy.celestial_object_category	link
+m.0gyx1tp	alias	Galactic cluster	en
+m.0gyx1tp	name	Galaxy cluster	en
+m.0gyx1tp	name	Galaxienhaufen	de
+m.0gyx1tp	name	Kopa galaxi\xc3\xad	sk
+m.0gyx1tp	en_wiki_title	Galaxy_cluster	link
+m.0gyx1tp	de_wiki_title	Galaxienhaufen	link
+m.017lzp	type	astronomy.celestial_object_category	link
+m.017lzp	name	Emission nebula	en
+m.017lzp	type	common.topic	link
+m.017lzp	name	Emissionsnebel	de
+m.017lzp	name	Emisn\xc3\xa1 hmlovina	sk
+m.017lzp	en_wiki_title	Emission_nebula	link
+m.017lzp	de_wiki_title	Emissionsnebel	link
+m.03bpb	type	base.ontologies.ontology_instance	link
+m.03bpb	name	Gasplanet	de
+m.03bpb	type	common.topic	link
+m.03bpb	name	Jovi\xc3\xa1lna plan\xc3\xa9ta	sk
+m.03bpb	type	astronomy.celestial_object_category	link
+m.03bpb	type	base.exoplanetology.topic	link
+m.03bpb	type	base.exoplanetology.planetary_classification	link
+m.03bpb	name	Gas giant	en
+m.03bpb	en_wiki_title	Gas_giant	link
+m.03bpb	de_wiki_title	Gasplanet	link
+m.0290ms	name	Skupina Aten	sk
+m.0290ms	type	astronomy.celestial_object_category	link
+m.0290ms	type	common.topic	link
+m.0290ms	name	Aten asteroid	en
+m.0290ms	type	astronomy.asteroid_group	link
+m.0290ms	en_wiki_title	Aten_asteroid	link
+m.03w0g	type	base.tagasauris.organic_object	link
+m.03w0g	name	Interstellare Wolke	de
+m.03w0g	type	base.tagit.organic_thing	link
+m.03w0g	name	Medzihviezdny mrak	sk
+m.03w0g	type	common.topic	link
+m.03w0g	type	astronomy.celestial_object_category	link
+m.03w0g	name	Interstellar cloud	en
+m.03w0g	en_wiki_title	Interstellar_cloud	link
+m.0h3j0	name	Meteoroid	de
+m.0h3j0	type	base.tagasauris.organic_object	link
+m.0h3j0	type	book.book_subject	link
+m.0h3j0	type	base.skosbase.topic	link
+m.0h3j0	type	astronomy.near_earth_object_classification	link
+m.0h3j0	name	Meteoroid	sk
+m.0h3j0	type	astronomy.celestial_object_category	link
+m.0h3j0	type	base.ontologies.ontology_instance	link
+m.0h3j0	type	base.skosbase.vocabulary_equivalent_topic	link
+m.0h3j0	type	user.tsegaran.random.taxonomy_subject	link
+m.0h3j0	type	common.topic	link
+m.0h3j0	type	base.tagit.organic_thing	link
+m.0h3j0	name	Meteoroid	en
+m.0h3j0	en_wiki_title	Meteoroid	link
+m.0h3j0	de_wiki_title	Meteoroid	link
+m.05fny	type	freebase.equivalent_topic	link
+m.05fny	type	base.tagit.organic_thing	link
+m.05fny	type	base.ontologies.ontology_instance	link
+m.05fny	alias	nebulae	en
+m.05fny	type	astronomy.celestial_object_category	link
+m.05fny	name	Nebel	de
+m.05fny	name	Nebula	en
+m.05fny	type	base.tagasauris.organic_object	link
+m.05fny	type	book.book_subject	link
+m.05fny	type	user.tsegaran.random.taxonomy_subject	link
+m.05fny	name	Hmlovina	sk
+m.05fny	type	common.topic	link
+m.05fny	en_wiki_title	Nebula	link
+m.05fny	de_wiki_title	Nebel_$0028Astronomie$0029	link
+m.08g_r2	type	astronomy.celestial_object_category	link
+m.08g_r2	name	Satelitn\xc3\xa1 galaxia	sk
+m.08g_r2	type	freebase.equivalent_topic	link
+m.08g_r2	name	Satellite galaxy	en
+m.08g_r2	type	common.topic	link
+m.08g_r2	en_wiki_title	Satellite_galaxy	link
+m.01h9vw	name	Blazar	en
+m.01h9vw	name	Blazar	de
+m.01h9vw	name	Blazar	sk
+m.01h9vw	type	astronomy.celestial_object_category	link
+m.01h9vw	type	common.topic	link
+m.01h9vw	de_wiki_title	Blazar	link
+m.01h9vw	en_wiki_title	Blazar	link
+m.0c34w	type	base.tagasauris.organic_object	link
+m.0c34w	type	common.topic	link
+m.0c34w	name	Brown dwarf	en
+m.0c34w	type	astronomy.celestial_object_category	link
+m.0c34w	type	base.tagit.organic_thing	link
+m.0c34w	name	Brauner Zwerg	de
+m.0c34w	name	Hned\xc3\xbd trpasl\xc3\xadk	sk
+m.0c34w	de_wiki_title	Brauner_Zwerg	link
+m.0c34w	en_wiki_title	Brown_dwarf	link
+m.07x1yn	type	astronomy.celestial_object_category	link
+m.07x1yn	type	common.topic	link
+m.07x1yn	de_wiki_title	Delta-Scuti-Stern	link
+m.07x1yn	name	Delta-Scuti-Stern	de
+m.07x1yn	name	Premenn\xc3\xa1 hviezda typu Delta Scuti	sk
+m.07x1yn	name	Delta Scuti variable	en
+m.07x1yn	en_wiki_title	Delta_Scuti_variable	link
+m.06zwr	type	common.topic	link
+m.06zwr	type	astronomy.celestial_object_category	link
+m.06zwr	name	Superhaufen	de
+m.06zwr	name	Supercluster	en
+m.06zwr	type	freebase.equivalent_topic	link
+m.06zwr	name	Superkopa galaxi\xc3\xad	sk
+m.06zwr	en_wiki_title	Supercluster	link
+m.06zwr	de_wiki_title	Superhaufen	link
+m.07xm47	name	Alpha\xc2\xb2 Canum Venaticorum variable	en
+m.07xm47	name	Premenn\xc3\xa1 hviezda typu Alfa2 Canum Venaticorum	sk
+m.07xm47	type	common.topic	link
+m.07xm47	type	astronomy.celestial_object_category	link
+m.07xm47	en_wiki_title	Alpha$00B2_Canum_Venaticorum_variable	link
+m.01f599	name	Hypernova	de
+m.01f599	type	astronomy.celestial_object_category	link
+m.01f599	name	Hypernova	en
+m.01f599	type	common.topic	link
+m.01f599	name	Hypernova	sk
+m.01f599	en_wiki_title	Hypernova	link
+m.01f599	de_wiki_title	Hypernova	link
+m.0c1d02d	type	common.topic	link
+m.0c1d02d	type	base.tagit.organic_thing	link
+m.0c1d02d	type	base.tagasauris.organic_object	link
+m.0c1d02d	name	Galaxy wall	en
+m.0c1d02d	type	astronomy.celestial_object_category	link
+m.0c1rmbh	name	Eclipsing binaries	en
+m.0c1rmbh	type	base.astronomydominy.topic	link
+m.0c1rmbh	type	astronomy.celestial_object_category	link
+m.0c1rmbh	type	common.topic	link
+m.0cc3xf	name	Beta-Lyrae-Stern	de
+m.0cc3xf	type	astronomy.celestial_object_category	link
+m.0cc3xf	type	common.topic	link
+m.0cc3xf	name	Beta Lyrae variable	en
+m.0cc3xf	de_wiki_title	Beta-Lyrae-Stern	link
+m.0cc3xf	en_wiki_title	Beta_Lyrae_variable	link
+m.05yvz	type	base.tagit.organic_thing	link
+m.05yvz	type	common.topic	link
+m.05yvz	name	Plut\xc3\xadno	sk
+m.05yvz	type	astronomy.celestial_object_category	link
+m.05yvz	name	Plutino	en
+m.05yvz	type	base.tagasauris.organic_object	link
+m.05yvz	name	Plutino	de
+m.05yvz	en_wiki_title	Plutino	link
+m.05yvz	de_wiki_title	Plutino	link
+m.05b_z_l	alias	Gamma Cassiopeiae variable	en
+m.05b_z_l	type	astronomy.celestial_object_category	link
+m.05b_z_l	type	common.topic	link
+m.05b_z_l	name	Premenn\xc3\xa1 hviezda typu Gama Cassiopeiae	sk
+m.05b_z_l	name	Shell star	en
+m.05b_z_l	en_wiki_title	Shell_star	link
+m.055hrw	type	common.topic	link
+m.055hrw	type	astronomy.celestial_object_category	link
+m.055hrw	name	Millisecond pulsar	en
+m.055hrw	en_wiki_title	Millisecond_pulsar	link
+m.05cqcb	type	astronomy.celestial_object_category	link
+m.05cqcb	name	Oran\xc5\xbeov\xc3\xbd trpasl\xc3\xadk	sk
+m.05cqcb	en_wiki_title	K-type_main-sequence_star	link
+m.05cqcb	type	common.topic	link
+m.05cqcb	name	Oranger Zwerg	de
+m.05cqcb	name	K-type main-sequence star	en
+m.04gs7c0	type	astronomy.celestial_object_category	link
+m.04gs7c0	type	common.topic	link
+m.04gs7c0	type	base.tagasauris.organic_object	link
+m.04gs7c0	type	base.tagit.organic_thing	link
+m.04gs7c0	name	Cis-Neptunian object	en
+m.04gs7c0	en_wiki_title	Cis-Neptunian_object	link
+m.0b71jt	type	common.topic	link
+m.0b71jt	name	Binary pulsar	en
+m.0b71jt	type	astronomy.celestial_object_category	link
+m.0b71jt	en_wiki_title	Binary_pulsar	link
+m.08ybdz	type	astronomy.celestial_object_category	link
+m.08ybdz	type	common.topic	link
+m.08ybdz	name	Interaguj\xc3\xbaca galaxia	sk
+m.08ybdz	name	Wechselwirkende Galaxien	de
+m.08ybdz	name	Interacting galaxy	en
+m.08ybdz	de_wiki_title	Wechselwirkende_Galaxien	link
+m.08ybdz	en_wiki_title	Interacting_galaxy	link
+m.0jvq	type	base.firsts.topic	link
+m.0jvq	alias	minor planets	en
+m.0jvq	type	base.virtualheliosphericobservatory.topic	link
+m.0jvq	type	base.skosbase.topic	link
+m.0jvq	type	base.firsts.first_achievement_category	link
+m.0jvq	type	astronomy.near_earth_object_classification	link
+m.0jvq	type	base.ontologies.topic	link
+m.0jvq	type	freebase.equivalent_topic	link
+m.0jvq	type	astronomy.celestial_object_category	link
+m.0jvq	name	Asteroid	sk
+m.0jvq	type	common.topic	link
+m.0jvq	type	base.tagasauris.organic_object	link
+m.0jvq	type	base.ontologies.ontology_instance	link
+m.0jvq	type	book.book_subject	link
+m.0jvq	name	Asteroid	de
+m.0jvq	type	user.tsegaran.random.taxonomy_subject	link
+m.0jvq	type	base.skosbase.vocabulary_equivalent_topic	link
+m.0jvq	type	base.tagit.organic_thing	link
+m.0jvq	type	base.ontologies.ontology_class	link
+m.0jvq	name	Asteroid	en
+m.0jvq	de_wiki_title	Asteroid	link
+m.0jvq	en_wiki_title	Asteroid	link
+m.01bt3p	type	common.topic	link
+m.01bt3p	type	astronomy.celestial_object_category	link
+m.01bt3p	type	base.astronomydominy.topic	link
+m.01bt3p	name	X-ray burster	en
+m.01bt3p	en_wiki_title	X-ray_burster	link
+m.04k4r9	type	base.nobelprizes.topic	link
+m.04k4r9	name	Pulsar	en
+m.04k4r9	type	astronomy.celestial_object_category	link
+m.04k4r9	name	Pulsar	de
+m.04k4r9	type	base.nobelprizes.nobel_subject_area	link
+m.04k4r9	name	Pulzar	sk
+m.04k4r9	type	common.topic	link
+m.04k4r9	de_wiki_title	Pulsar	link
+m.04k4r9	en_wiki_title	Pulsar	link
+m.039b5	type	base.ontologies.ontology_instance	link
+m.039b5	type	base.tagit.organic_thing	link
+m.039b5	type	base.tagasauris.organic_object	link
+m.039b5	type	user.tsegaran.random.taxonomy_subject	link
+m.039b5	name	galaxia	sk
+m.039b5	type	freebase.equivalent_topic	link
+m.039b5	type	book.book_subject	link
+m.039b5	name	Galaxy	en
+m.039b5	type	common.topic	link
+m.039b5	type	astronomy.celestial_object_category	link
+m.039b5	name	Galaxie	de
+m.039b5	en_wiki_title	Galaxy	link
+m.039b5	de_wiki_title	Galaxie	link
+m.07g5b7	type	common.topic	link
+m.07g5b7	type	base.tagasauris.organic_object	link
+m.07g5b7	name	Resonant trans-Neptunian object	en
+m.07g5b7	type	astronomy.celestial_object_category	link
+m.07g5b7	type	base.tagit.organic_thing	link
+m.07g5b7	en_wiki_title	Resonant_trans-Neptunian_object	link
+m.07zkf5	name	Premenn\xc3\xa1 hviezda typu RS Canum Venaticorum	sk
+m.07zkf5	type	astronomy.celestial_object_category	link
+m.07zkf5	name	RS Canum Venaticorum variable	en
+m.07zkf5	type	common.topic	link
+m.07zkf5	name	RS-Canum-Venaticorum-Stern	de
+m.07zkf5	en_wiki_title	RS_Canum_Venaticorum_variable	link
+m.07zkf5	de_wiki_title	RS-Canum-Venaticorum-Stern	link
+m.0cxzbg	name	Alpha Cygni variable	en
+m.0cxzbg	type	astronomy.celestial_object_category	link
+m.0cxzbg	name	Alpha-Cygni-Stern	de
+m.0cxzbg	type	common.topic	link
+m.0cxzbg	en_wiki_title	Alpha_Cygni_variable	link
+m.0cxzbg	de_wiki_title	Alpha-Cygni-Stern	link
+m.06ngk	type	freebase.equivalent_topic	link
+m.06ngk	type	base.tagasauris.organic_object	link
+m.06ngk	type	base.ontologies.ontology_instance	link
+m.06ngk	type	base.tagit.organic_thing	link
+m.06ngk	type	book.book_subject	link
+m.06ngk	type	base.skosbase.topic	link
+m.06ngk	type	user.tsegaran.random.taxonomy_subject	link
+m.06ngk	name	Stern	de
+m.06ngk	name	Hviezda	sk
+m.06ngk	type	base.allthingsnewyork.topic	link
+m.06ngk	type	astronomy.celestial_object_category	link
+m.06ngk	type	base.skosbase.vocabulary_equivalent_topic	link
+m.06ngk	type	common.topic	link
+m.06ngk	name	Star	en
+m.06ngk	de_wiki_title	Stern	link
+m.06ngk	en_wiki_title	Star	link
+m.03txwx	name	Trpasli\xc4\x8dia galaxia	sk
+m.03txwx	type	astronomy.celestial_object_category	link
+m.03txwx	en_wiki_title	Dwarf_galaxy	link
+m.03txwx	name	Zwerggalaxie	de
+m.03txwx	name	Dwarf galaxy	en
+m.03txwx	type	common.topic	link
+m.03txwx	de_wiki_title	Zwerggalaxie	link
+m.05cqd0	name	\xc5\xbdltobiely trpasl\xc3\xadk	sk
+m.05cqd0	type	astronomy.celestial_object_category	link
+m.05cqd0	type	common.topic	link
+m.05cqd0	name	F-type main-sequence star	en
+m.05cqd0	en_wiki_title	F-type_main-sequence_star	link
+m.03ch9	name	Kugelsternhaufen	de
+m.03ch9	type	astronomy.celestial_object_category	link
+m.03ch9	name	Gu\xc4\xbeov\xc3\xa1 hviezdokopa	sk
+m.03ch9	type	base.tagit.organic_thing	link
+m.03ch9	type	base.argumentmaps.idea	link
+m.03ch9	type	base.argumentmaps.topic	link
+m.03ch9	type	common.topic	link
+m.03ch9	type	base.argumentmaps.original_idea	link
+m.03ch9	type	base.ontologies.ontology_instance	link
+m.03ch9	type	base.argumentmaps.theoretical_argument	link
+m.03ch9	type	base.tagasauris.organic_object	link
+m.03ch9	name	Globular cluster	en
+m.03ch9	de_wiki_title	Kugelsternhaufen	link
+m.03ch9	en_wiki_title	Globular_cluster	link
+m.04n502f	name	Symbiotischer Stern	de
+m.04n502f	alias	Symbiotic variable star	en
+m.04n502f	type	common.topic	link
+m.04n502f	alias	Symbiotic novae star	en
+m.04n502f	name	Symbiotic nova	en
+m.04n502f	type	base.astronomydominy.topic	link
+m.04n502f	type	astronomy.celestial_object_category	link
+m.04n502f	de_wiki_title	Symbiotischer_Stern	link
+m.04n502f	en_wiki_title	Symbiotic_nova	link
+m.01srj	type	base.tagit.organic_thing	link
+m.01srj	type	book.book_subject	link
+m.01srj	type	base.ontologies.ontology_instance	link
+m.01srj	type	common.topic	link
+m.01srj	type	base.tagasauris.organic_object	link
+m.01srj	type	astronomy.near_earth_object_classification	link
+m.01srj	name	Kom\xc3\xa9ta	sk
+m.01srj	type	astronomy.celestial_object_category	link
+m.01srj	type	base.virtualheliosphericobservatory.topic	link
+m.01srj	type	base.ontologies.topic	link
+m.01srj	type	base.ontologies.ontology_class	link
+m.01srj	name	Comet	en
+m.01srj	name	Komet	de
+m.01srj	type	user.tsegaran.random.taxonomy_subject	link
+m.01srj	type	freebase.equivalent_topic	link
+m.01srj	de_wiki_title	Komet	link
+m.01srj	en_wiki_title	Comet	link
+m.043tx4c	name	Minor planet	en
+m.043tx4c	name	Kleinplanet	de
+m.043tx4c	name	Plan\xc3\xa9tka	sk
+m.043tx4c	type	common.topic	link
+m.043tx4c	type	astronomy.celestial_object_category	link
+m.043tx4c	en_wiki_title	Minor_planet	link
+m.047l9b	type	astronomy.celestial_object_category	link
+m.047l9b	name	Eruptive variable	en
+m.047l9b	type	common.topic	link
+m.01f4rb	name	Minor-planet moon	en
+m.01f4rb	type	astronomy.celestial_object_category	link
+m.01f4rb	name	Mesiac plan\xc3\xa9tky	sk
+m.01f4rb	type	common.topic	link
+m.01f4rb	alias	Asteroid moon	en
+m.01f4rb	en_wiki_title	Minor-planet_moon	link
+m.09g93f3	type	common.topic	link
+m.09g93f3	de_wiki_title	R$00F6ntgenquelle_$0028Astronomie$0029	link
+m.09g93f3	name	R\xc3\xb6ntgenquelle	de
+m.09g93f3	type	astronomy.celestial_object_category	link
+m.09g93f3	name	Astrophysical X-ray source	en
+m.09g93f3	en_wiki_title	Astrophysical_X-ray_source	link
+m.0c7k1_	type	common.topic	link
+m.0c7k1_	type	astronomy.celestial_object_category	link
+m.0c7k1_	name	Algolstern	de
+m.0c7k1_	name	Algol variable	en
+m.0c7k1_	de_wiki_title	Algolstern	link
+m.0c7k1_	en_wiki_title	Algol_variable	link
+m.02p7njq	name	Supernova vom Typ Ia	de
+m.02p7njq	type	common.topic	link
+m.02p7njq	type	astronomy.celestial_object_category	link
+m.02p7njq	name	Type Ia supernova	en
+m.02p7njq	en_wiki_title	Type_Ia_supernova	link
+m.02p7njq	de_wiki_title	Supernova_vom_Typ_Ia	link
+m.0cpl6	name	Asteroid Group	en
+m.0cpl6	name	Plan\xc3\xa9tka	sk
+m.0cpl6	type	common.topic	link
+m.0cpl6	type	freebase.equivalent_topic	link
+m.0cpl6	type	astronomy.celestial_object_category	link
+m.0w7k_74	name	Ice planet	en
+m.0w7k_74	type	common.topic	link
+m.0w7k_74	type	astronomy.celestial_object_category	link
+m.0w7k_74	en_wiki_title	Ice_planet	link
+m.047y77	name	Langsam unregelm\xc3\xa4\xc3\x9fig ver\xc3\xa4nderlicher Stern	de
+m.047y77	name	Nepravideln\xc3\xa1 premenn\xc3\xa1 hviezda	sk
+m.047y77	type	astronomy.celestial_object_category	link
+m.047y77	name	Irregular variable	en
+m.047y77	type	common.topic	link
+m.047y77	en_wiki_title	Irregular_variable	link
+m.047y77	de_wiki_title	Langsam_unregelm$00E4$00DFig_ver$00E4nderlicher_Stern	link
+m.07xmcq	type	astronomy.celestial_object_category	link
+m.07xmcq	name	Beta Cephei variable	en
+m.07xmcq	name	Beta-Cephei-Stern	de
+m.07xmcq	type	common.topic	link
+m.07xmcq	de_wiki_title	Beta-Cephei-Stern	link
+m.07xmcq	en_wiki_title	Beta_Cephei_variable	link
+m.03dl6n	name	X-ray pulsar	en
+m.03dl6n	type	astronomy.celestial_object_category	link
+m.03dl6n	name	R\xc3\xb6ntgenpulsar	de
+m.03dl6n	type	base.astronomydominy.topic	link
+m.03dl6n	type	common.topic	link
+m.03dl6n	en_wiki_title	X-ray_pulsar	link
+m.03dl6n	de_wiki_title	R$00F6ntgenpulsar	link
+m.01h1s	type	book.book_subject	link
+m.01h1s	type	astronomy.celestial_object_category	link
+m.01h1s	type	base.tagit.organic_thing	link
+m.01h1s	type	base.ontologies.ontology_instance	link
+m.01h1s	type	base.tagasauris.organic_object	link
+m.01h1s	name	Schwarzes Loch	de
+m.01h1s	type	common.topic	link
+m.01h1s	type	user.digitalarchivist.default_domain.star_type	link
+m.01h1s	name	\xc4\x8cierna diera	sk
+m.01h1s	name	Black hole	en
+m.01h1s	alias	Black Holes	en
+m.01h1s	de_wiki_title	Schwarzes_Loch	link
+m.01h1s	en_wiki_title	Black_hole	link
+m.09tmj8s	type	base.tagit.organic_thing	link
+m.09tmj8s	type	common.topic	link
+m.09tmj8s	name	Kuiper belt object	en
+m.09tmj8s	type	astronomy.celestial_object_category	link
+m.09tmj8s	type	base.tagasauris.organic_object	link
+m.06wv0	type	base.tagasauris.organic_object	link
+m.06wv0	alias	supernovae	en
+m.06wv0	type	freebase.equivalent_topic	link
+m.06wv0	name	Supernova	sk
+m.06wv0	type	base.ontologies.ontology_instance	link
+m.06wv0	type	common.topic	link
+m.06wv0	type	astronomy.celestial_object_category	link
+m.06wv0	name	Supernova	de
+m.06wv0	name	Supernova	en
+m.06wv0	type	base.tagit.organic_thing	link
+m.06wv0	en_wiki_title	Supernova	link
+m.06wv0	de_wiki_title	Supernova	link
+m.02xyzy	type	common.topic	link
+m.02xyzy	type	astronomy.celestial_object_category	link
+m.02xyzy	name	Pole star	en
+m.02xyzy	name	Pol\xc3\xa1rka	sk
+m.02xyzy	type	base.type_ontology.non_agent	link
+m.02xyzy	type	astronomy.orbital_relationship	link
+m.02xyzy	type	base.type_ontology.physically_instantiable	link
+m.02xyzy	name	Polarstern	de
+m.02xyzy	type	base.type_ontology.inanimate	link
+m.02xyzy	en_wiki_title	Pole_star	link
+m.0d2g57	type	astronomy.celestial_object_category	link
+m.0d2g57	type	common.topic	link
+m.0d2g57	name	Rotating ellipsoidal variable	en
+m.0d2g57	name	Ellipsoid ver\xc3\xa4nderlicher Stern	de
+m.0d2g57	de_wiki_title	Ellipsoid_ver$00E4nderlicher_Stern	link
+m.0d2g57	en_wiki_title	Rotating_ellipsoidal_variable	link
+m.0g3tzt	type	freebase.equivalent_topic	link
+m.0g3tzt	type	base.tagasauris.organic_object	link
+m.0g3tzt	type	common.topic	link
+m.0g3tzt	name	Dwarf planet	en
+m.0g3tzt	name	Trpasli\xc4\x8dia plan\xc3\xa9ta	sk
+m.0g3tzt	type	base.tagit.organic_thing	link
+m.0g3tzt	type	astronomy.celestial_object_category	link
+m.0g3tzt	name	Zwergplanet	de
+m.0g3tzt	de_wiki_title	Zwergplanet	link
+m.0g3tzt	en_wiki_title	Dwarf_planet	link
+m.0gggxt	name	Mal\xc3\xa9 teleso slne\xc4\x8dnej s\xc3\xbastavy	sk
+m.0gggxt	alias	small-body	en
+m.0gggxt	name	Small Solar System body	en
+m.0gggxt	type	astronomy.celestial_object_category	link
+m.0gggxt	type	base.tagit.organic_thing	link
+m.0gggxt	type	common.topic	link
+m.0gggxt	type	base.tagasauris.organic_object	link
+m.0gggxt	name	Kleink\xc3\xb6rper	de
+m.0gggxt	de_wiki_title	Kleink$00F6rper_$0028Astronomie$0029	link
+m.0gggxt	en_wiki_title	Small_Solar_System_body	link
+m.02qz9h	type	astronomy.celestial_object_category	link
+m.02qz9h	type	base.tagasauris.organic_object	link
+m.02qz9h	type	base.tagit.organic_thing	link
+m.02qz9h	name	Riesenstern	de
+m.02qz9h	name	Obor	sk
+m.02qz9h	type	common.topic	link
+m.02qz9h	name	Giant star	en
+m.02qz9h	de_wiki_title	Riesenstern	link
+m.02qz9h	en_wiki_title	Giant_star	link
+m.0ggr_x	type	common.topic	link
+m.0ggr_x	name	Plutoid	en
+m.0ggr_x	name	Plutoid	de
+m.0ggr_x	type	base.tagasauris.organic_object	link
+m.0ggr_x	type	base.tagit.organic_thing	link
+m.0ggr_x	alias	Pluto prototype	en
+m.0ggr_x	type	astronomy.celestial_object_category	link
+m.0ggr_x	name	Plutoid	sk
+m.0ggr_x	en_wiki_title	Plutoid	link
+m.0ggr_x	de_wiki_title	Plutoid	link
+m.069qs	name	Quasar	de
+m.069qs	type	common.topic	link
+m.069qs	name	Quasar	en
+m.069qs	type	astronomy.celestial_object_category	link
+m.069qs	name	Kvazar	sk
+m.069qs	type	base.ontologies.ontology_instance	link
+m.069qs	de_wiki_title	Quasar	link
+m.069qs	en_wiki_title	Quasar	link
+m.0fkn4	name	Roter Riese	de
+m.0fkn4	type	astronomy.celestial_object_category	link
+m.0fkn4	type	base.tagasauris.organic_object	link
+m.0fkn4	name	\xc4\x8cerven\xc3\xbd obor	sk
+m.0fkn4	type	common.topic	link
+m.0fkn4	type	base.tagit.organic_thing	link
+m.0fkn4	name	Red giant	en
+m.0fkn4	de_wiki_title	Roter_Riese	link
+m.0fkn4	en_wiki_title	Red_giant	link
+m.06zmc9n	type	astronomy.celestial_object_category	link
+m.06zmc9n	type	common.topic	link
+m.06zmc9n	name	Hypercompact stellar system	en
+m.06zmc9n	en_wiki_title	Hypercompact_stellar_system	link
+m.03mcyst	name	R Coronae Borealis variable	en
+m.03mcyst	name	R-Coronae-Borealis-Stern	de
+m.03mcyst	type	common.topic	link
+m.03mcyst	type	astronomy.celestial_object_category	link
+m.03mcyst	en_wiki_title	R_Coronae_Borealis_variable	link
+m.03mcyst	de_wiki_title	R-Coronae-Borealis-Stern	link
+m.0h28_qq	type	astronomy.celestial_object_category	link
+m.0h28_qq	alias	Galactic group	en
+m.0h28_qq	type	freebase.equivalent_topic	link
+m.0h28_qq	name	Galaxy group	en
+m.0h28_qq	type	common.topic	link
+m.02qxzvx	name	Typ-II-Supernova	de
+m.02qxzvx	type	astronomy.celestial_object_category	link
+m.02qxzvx	type	common.topic	link
+m.02qxzvx	name	Type II supernova	en
+m.02qxzvx	en_wiki_title	Type_II_supernova	link
+m.083l8	name	White dwarf	en
+m.083l8	type	astronomy.celestial_object_category	link
+m.083l8	name	Biely trpasl\xc3\xadk	sk
+m.083l8	type	base.tagit.organic_thing	link
+m.083l8	type	base.tagasauris.organic_object	link
+m.083l8	type	common.topic	link
+m.083l8	name	Wei\xc3\x9fer Zwerg	de
+m.083l8	en_wiki_title	White_dwarf	link
+m.083l8	de_wiki_title	Wei$00DFer_Zwerg	link
+m.0d_23	name	mesiac	sk
+m.0d_23	alias	moon	en
+m.0d_23	name	Natural satellite	en
+m.0d_23	type	base.tagit.organic_thing	link
+m.0d_23	type	base.skosbase.vocabulary_equivalent_topic	link
+m.0d_23	type	common.topic	link
+m.0d_23	name	Satellit	de
+m.0d_23	type	base.tagasauris.organic_object	link
+m.0d_23	type	base.skosbase.topic	link
+m.0d_23	type	freebase.equivalent_topic	link
+m.0d_23	type	astronomy.celestial_object_category	link
+m.0d_23	de_wiki_title	Satellit_$0028Astronomie$0029	link
+m.0d_23	en_wiki_title	Natural_satellite	link
+m.04m488	type	common.topic	link
+m.04m488	type	astronomy.celestial_object_category	link
+m.04m488	name	Anomalous X-ray pulsar	en
+m.04m488	en_wiki_title	Anomalous_X-ray_pulsar	link
+m.0fjvv	type	common.topic	link
+m.0fjvv	name	\xc4\x8cerven\xc3\xbd trpasl\xc3\xadk	sk
+m.0fjvv	name	Red dwarf	en
+m.0fjvv	name	Roter Zwerg	de
+m.0fjvv	type	astronomy.celestial_object_category	link
+m.0fjvv	en_wiki_title	Red_dwarf	link
+m.0fjvv	de_wiki_title	Roter_Zwerg	link
+m.05cqf1	name	A-type main-sequence star	en
+m.05cqf1	name	Hviezda typu A hlavnej postupnosti	sk
+m.05cqf1	type	common.topic	link
+m.05cqf1	type	astronomy.celestial_object_category	link
+m.05cqf1	en_wiki_title	A-type_main-sequence_star	link
+m.0crxp	type	common.topic	link
+m.0crxp	type	astronomy.asteroid_group	link
+m.0crxp	type	symbols.namesake	link
+m.0crxp	name	Skupina Apollo	sk
+m.0crxp	type	astronomy.celestial_object_category	link
+m.0crxp	name	Apollo asteroid	en
+m.05hcf	type	astronomy.celestial_object_category	link
+m.05hcf	name	Neutronenstern	de
+m.05hcf	name	Neutr\xc3\xb3nov\xc3\xa1 hviezda	sk
+m.05hcf	type	base.ontologies.ontology_instance	link
+m.05hcf	name	Neutron star	en
+m.05hcf	type	common.topic	link
+m.05hcf	de_wiki_title	Neutronenstern	link
+m.05hcf	en_wiki_title	Neutron_star	link
+m.0gfb36w	type	common.topic	link
+m.0gfb36w	type	astronomy.celestial_object_category	link
+m.0gfb36w	name	Compact galaxy group	en
+m.065n7	name	Planetenring	de
+m.065n7	name	Planetary ring	en
+m.065n7	type	common.topic	link
+m.065n7	type	base.skosbase.topic	link
+m.065n7	type	astronomy.celestial_object_category	link
+m.065n7	name	Prstenec plan\xc3\xa9ty	sk
+m.065n7	type	base.skosbase.vocabulary_equivalent_topic	link
+m.065n7	de_wiki_title	Planetenring	link
+m.065n7	en_wiki_title	Planetary_ring	link
+m.04f0r6x	type	astronomy.celestial_object_category	link
+m.04f0r6x	alias	E-SDO	en
+m.04f0r6x	alias	Extended scattered disc object	en
+m.04f0r6x	type	base.tagit.organic_thing	link
+m.04f0r6x	type	common.topic	link
+m.04f0r6x	alias	Scattered\xe2\x80\x93extended object	en
+m.04f0r6x	alias	Distant detached object	en
+m.04f0r6x	type	base.tagasauris.organic_object	link
+m.04f0r6x	name	Detached object	en
+m.04f0r6x	alias	DDO	en
+m.04f0r6x	en_wiki_title	Detached_object	link
+m.02rm0sy	name	ZZ-Ceti-Stern	de
+m.02rm0sy	name	Pulsating white dwarf	en
+m.02rm0sy	type	astronomy.celestial_object_category	link
+m.02rm0sy	type	common.topic	link
+m.02rm0sy	de_wiki_title	ZZ-Ceti-Stern	link
+m.02rm0sy	en_wiki_title	Pulsating_white_dwarf	link
+m.0290nk	name	Amor asteroid	en
+m.0290nk	type	astronomy.asteroid_group	link
+m.0290nk	name	Skupina Amor	sk
+m.0290nk	type	common.topic	link
+m.0290nk	type	astronomy.celestial_object_category	link
+m.0290nk	en_wiki_title	Amor_asteroid	link
+m.05p2x	type	astronomy.celestial_object_category	link
+m.05p2x	name	Open cluster	en
+m.05p2x	type	common.topic	link
+m.05p2x	type	base.tagasauris.organic_object	link
+m.05p2x	type	base.ontologies.ontology_instance	link
+m.05p2x	type	base.tagit.organic_thing	link
+m.05p2x	name	Offener Sternhaufen	de
+m.05p2x	name	Otvoren\xc3\xa1 hviezdokopa	sk
+m.05p2x	de_wiki_title	Offener_Sternhaufen	link
+m.05p2x	en_wiki_title	Open_cluster	link
+m.03hstv	type	astronomy.celestial_object_category	link
+m.03hstv	type	common.topic	link
+m.03hstv	name	Jupiter-crosser asteroid	en
+m.01_5zx	name	Binary asteroid	en
+m.01_5zx	type	common.topic	link
+m.01_5zx	name	Doppelasteroid	de
+m.01_5zx	name	Dvojplan\xc3\xa9tka	sk
+m.01_5zx	type	astronomy.celestial_object_category	link
+m.01_5zx	de_wiki_title	Doppelasteroid	link
+m.01_5zx	en_wiki_title	Binary_asteroid	link
+m.072jr	type	astronomy.celestial_object_category	link
+m.072jr	type	common.topic	link
+m.072jr	name	Sternhaufen	de
+m.072jr	name	Hviezdokopa	sk
+m.072jr	name	Star cluster	en
+m.072jr	type	base.ontologies.ontology_instance	link
+m.072jr	en_wiki_title	Star_cluster	link
+m.072jr	de_wiki_title	Sternhaufen	link
+m.04b8hk	name	Radioquelle	de
+m.04b8hk	type	common.topic	link
+m.04b8hk	name	Astronomical radio source	en
+m.04b8hk	alias	Radio source	en
+m.04b8hk	type	astronomy.celestial_object_category	link
+m.04b8hk	en_wiki_title	Astronomical_radio_source	link
+m.04b8hk	de_wiki_title	Radioquelle	link
+m.05d_y	type	common.topic	link
+m.05d_y	type	astronomy.celestial_object_category	link
+m.05d_y	alias	NEO	en
+m.05d_y	name	Near-Earth asteroid	en
+m.05d_y	name	Erdnaher Asteroid	de
+m.05d_y	type	astronomy.asteroid_group	link
+m.05d_y	name	Bl\xc3\xadzkozemsk\xc3\xa1 plan\xc3\xa9tka	sk
+m.05d_y	alias	NEA	en
+m.05d_y	de_wiki_title	Erdnaher_Asteroid	link
+m.08n_lz	name	Tr\xc3\xb3jan Nept\xc3\xbana	sk
+m.08n_lz	type	common.topic	link
+m.08n_lz	type	astronomy.asteroid_group	link
+m.08n_lz	name	Neptune trojan	en
+m.08n_lz	type	astronomy.celestial_object_category	link
+m.08n_lz	en_wiki_title	Neptune_trojan	link

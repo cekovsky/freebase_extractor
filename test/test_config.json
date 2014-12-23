@@ -1,0 +1,32 @@
+{
+    "lang_list": ["en", "de", "sk"],
+    "main_lang": "en",
+    "target_predicates":
+    [
+        {
+            "id": "name",
+            "url": "<http://rdf.freebase.com/ns/type.object.name>",
+            "localizable_subject": true
+        },
+        {
+            "id": "alias",
+            "url": "<http://rdf.freebase.com/ns/common.topic.alias>",
+            "localizable_subject": true
+        },
+        {
+            "id": "type",
+            "url": "<http://rdf.freebase.com/ns/type.object.type>",
+            "localizable_subject": false
+        }
+    ],
+    "main_predicate_url": "<http://rdf.freebase.com/ns/type.object.name>",
+    "rdf_service_url": "https://www.googleapis.com/freebase/v1/rdf",
+    "mql_service_url": "https://www.googleapis.com/freebase/v1/mql",
+    "test_topic_id_list": 
+    [
+        "m.0bt_c3",
+        "m.04m6h",
+        "m.06ngk"
+    ],
+    "test_data_directory": "data/"
+}

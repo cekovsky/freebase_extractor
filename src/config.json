@@ -1,0 +1,41 @@
+{
+    "lang_list": ["en", "de", "sk"],
+    "main_lang": "en",
+    "target_predicates":
+    [
+        {
+            "id": "name",
+            "url": "<http://rdf.freebase.com/ns/type.object.name>",
+            "localizable_subject": true
+        },
+        {
+            "id": "alias",
+            "url": "<http://rdf.freebase.com/ns/common.topic.alias>",
+            "localizable_subject": true
+        },
+        {
+            "id": "type",
+            "url": "<http://rdf.freebase.com/ns/type.object.type>",
+            "localizable_subject": false
+        },
+        {
+            "id": "en_wiki_title",
+            "url": "<http://rdf.freebase.com/key/wikipedia.en_title>",
+            "localizable_subject": false
+        },
+        {
+            "id": "de_wiki_title",
+            "url": "<http://rdf.freebase.com/key/wikipedia.de_title>",
+            "localizable_subject": false
+        }
+    ],
+    "main_predicate_url": "<http://rdf.freebase.com/ns/type.object.name>",
+    "condition":
+    {
+        "predicate_id": "type",
+        "predicate_value": "common.topic"
+    },
+    "input_file_name": "data/sample_data.rdf",
+    "output_file_name": "data/sample_output.txt",
+    "index_directory": "data/whoosh/"
+}
